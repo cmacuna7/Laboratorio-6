@@ -36,5 +36,16 @@ corrientes presentes en un circuito eléctrico, para asi tomar en cuenta la impo
 
 ![png (7)](https://user-images.githubusercontent.com/84789076/127862377-097c8224-34b3-47c3-aa52-0c1a23a8dc02.png)
 
+## 4. Video: 
+
+
+## 5. Conclusiones: 
+
+•	
+
+## 6. Bibliografia: 
+
+•	
+.
 
 
