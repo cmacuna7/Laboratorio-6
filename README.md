@@ -37,13 +37,13 @@
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 Circuito Analítico
-![](Img/1..PNG)
+![](Img/1..png)
 
-![](Img/2..PNG)
+![](Img/2..png)
 
-![](Img/3..PNG)
+![](Img/3..png)
 
-![](Img/4..PNG)
+![](Img/4..png)
 
 ## 4. Video: 
 
