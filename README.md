@@ -57,7 +57,7 @@
 
 * innovacionumh. (s.f.). ANÁLISIS DE CIRCUITOS Y SISTEMAS LINEALES. Obtenido de Máxima transferencia de potencia.: https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_09.htm
 
-•	Fundamentos de Circuitos Eléctricos. Charles K. Alexander y Matthew N. O. Sadiku. McGraw-Hill Companies, Inc.
+* Fundamentos de Circuitos Eléctricos. Charles K. Alexander y Matthew N. O. Sadiku. McGraw-Hill Companies, Inc.
 
 * ANÁLISIS DE CIRCUITOS EN INGENIERÍA, W.H. Hayt. Ed. McGraw-Hill, 1993.
 
