@@ -34,6 +34,17 @@
 
 ![png (7)](https://user-images.githubusercontent.com/84789076/127862377-097c8224-34b3-47c3-aa52-0c1a23a8dc02.png)
 
+3. EXPLICACIÓN DEL PROCEDIMIENTO
+
+Circuito Analítico
+![](Img/1..PNG)
+
+![](Img/2..PNG)
+
+![](Img/3..PNG)
+
+![](Img/4..PNG)
+
 ## 4. Video: 
 
 
