@@ -71,10 +71,17 @@ Circuito Simulado
 Materiales
 
 
-## 4. Video: 
+## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 
-## 5. Conclusiones: 
+
+
+## 5. Video: 
+
+
+## 6. Conclusiones: 
 
 * El circuito obtenido luego de aplicar el teorema con los conocimientos previos de conceptos y aplicación es mucho más simple y rapido para calcular voltajes y corrientes.
 
@@ -88,7 +95,7 @@ Materiales
 
 * Concluimos que para el uso del simulador debemos utilizar de una manera adecuada cada uno de los materiales a usar, ya que si se tiene alguna mala conexión o algún mal uso del protoboard, multímetros, etc. se puede generar datos y valores erróneos, que pueden afectar al laboratorio estudiado. 
 
-## 6. Bibliografia: 
+## 7. Bibliografia: 
 
 * Fisica Practica. (s.f.). Teorema de la transferencia máxima de potencia. Obtenido de https://www.fisicapractica.com/transferencia.php
 
