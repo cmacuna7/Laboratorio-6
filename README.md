@@ -2,11 +2,9 @@
 
 Integrantes:
 
-Acuña Marcelo
-
-Robalino Johanna
-
-Villacis Isaac 
+* Acuña Marcelo
+* Robalino Johanna
+* Villacis Isaac 
 
 NRC: 5406
 
