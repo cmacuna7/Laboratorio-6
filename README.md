@@ -48,6 +48,26 @@ Circuito Analítico
 
 Circuito Simulado
 
+![](Img/1.jpeg)
+
+![](Img/2.jpeg)
+
+![](Img/3.jpeg)
+
+![](Img/4.jpeg)
+
+![](Img/5.jpeg)
+
+![](Img/6.jpeg)
+
+![](Img/7.jpeg)
+
+![](Img/8.jpeg)
+
+![](Img/9.jpeg)
+
+![](Img/10.jpeg)
+
 Materiales
 
 
