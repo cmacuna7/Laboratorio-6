@@ -37,6 +37,7 @@
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 Circuito Analítico
+
 ![](Img/1..png)
 
 ![](Img/2..png)
@@ -44,6 +45,11 @@ Circuito Analítico
 ![](Img/3..png)
 
 ![](Img/4..png)
+
+Circuito Simulado
+
+Materiales
+
 
 ## 4. Video: 
 
