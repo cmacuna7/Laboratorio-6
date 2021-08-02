@@ -41,11 +41,22 @@ corrientes presentes en un circuito eléctrico, para asi tomar en cuenta la impo
 
 ## 5. Conclusiones: 
 
-•	
+•	El reducir un circuito complejo a una fuente y resistencia de Thévenin nos ayuda para poder determinar más rápido la transferencia de potencia hacia un resistor.
+
+• Al medir todas las potencias mediante las resistencias propuestas se concluyo facilmente que 1kΩ es con quien se obtiene la maxima transferencia de potencia.
+
+* El circuito obtenido luego de aplicar el teorema es mucho mas simple y rapido para calcular voltajes y corrientes.
+
+* Permiten encontrar un circuito equivalente de manera simple y rápida aun en circuitos de naturaleza complicados.
 
 ## 6. Bibliografia: 
 
-•	
-.
+* Fisica Practica. (s.f.). Teorema de la transferencia máxima de potencia. Obtenido de https://www.fisicapractica.com/transferencia.php
+
+* innovacionumh. (s.f.). ANÁLISIS DE CIRCUITOS Y SISTEMAS LINEALES. Obtenido de Máxima transferencia de potencia.: https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_09.htm
+
+•	Fundamentos de Circuitos Eléctricos. Charles K. Alexander y Matthew N. O. Sadiku. McGraw-Hill Companies, Inc.
+
+* ANÁLISIS DE CIRCUITOS EN INGENIERÍA, W.H. Hayt. Ed. McGraw-Hill, 1993.
 
 
