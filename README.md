@@ -1,5 +1,19 @@
 # Laboratorio-6
 
+Integrantes:
+
+Acuña Marcelo
+
+Robalino Johanna
+
+Villacis Isaac 
+
+NRC: 5406
+
+Docente: Ing. Darwin Alulema.
+
+Tema: Teorema de la máxima transferencia de potencia.
+
 ## 1.Objetivos: 
 
 ### Generales:
