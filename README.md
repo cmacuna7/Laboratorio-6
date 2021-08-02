@@ -1,18 +1,4 @@
-# Universidad de las Fuerzas Armadas "ESPE"
-
-### Fundamentos de Circuitos Electricos 
-
-**Informe Laboratorio Nº6**
-
-**Integrantes:** Acuña Marcelo, Robalino Johanna, Villacis Isaac
-
-**Carrera:** Ing. en Electrónica y Automatización 
-
-**NRC:** 5406 
-
-**Docente:** Ing. Darwin Alulema
-
-**Tema:** Teorema " Máxima trasnferencia de potencia " 
+# Laboratorio-6
 
 ## 1.Objetivos: 
 
@@ -75,8 +61,16 @@ Materiales
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
+![](Img/Tabla.jpeg)
 
+6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
+respuesta.
 
+-
+
+6.5.5. ¿Cuál fue la potencia máxima en RL? 0.0485 Watts
+
+6.5.6. ¿Para qué valor de RL se obtiene la MTP? 820 Ω
 
 ## 5. Video: 
 
