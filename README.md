@@ -18,19 +18,17 @@
 
 ### Generales:
 
-•	 Analizar y verificar en forma experimental y analítica el teorema propuesto, comprobandos mediante cálculos, ecuaciones y uso del simulador para determinar los voltajes y las
-
-corrientes presentes en un circuito eléctrico, para asi tomar en cuenta la importancia de este teorema a partir de los datos tomados en el laboratorio.
+* Analizar y verificar en forma experimental y analítica el teorema propuesto, comprobandos mediante cálculos, ecuaciones y uso del simulador para determinar los voltajes y las corrientes presentes en un circuito eléctrico, para asi tomar en cuenta la importancia de este teorema a partir de los datos tomados en el laboratorio.
 
 ### Especificos: 
 
-•	 Conocer los fundamentos básicos de estos teoremas y su aplicación.
+* Conocer los fundamentos básicos de estos teoremas y su aplicación, analizando el circuito mediante la aplicación del Teorema de la Máxima Transferencia de Potencia.
 
-* Analizar el circuito mediante la aplicación de los Teorema de la Máxima Transferencia de Potencia.
+* Comprobar los resultados obtenidos teóricamente mediante una simulación del circuito en la apliación Tinkerkad.
 
-* Verificar los parametros determinados para el teorema.
+* Comprender que el teorema de la máxima transferencia de potencia, se deriva del teorema de Thevenin y el de Norton, incluyendo analisis de ecuaciones y cálculos, ayudandonos así a conocer y manejar de maneras mas simple el teorema estudiado. 
 
-* Comprobar experimentalmente que se cumpla el teorema en estudio.
+* Entender las conexiones y forma de uso del protoboard, resistencias, multímetro y de los demás materiales de laboratorio usados en el simulador para hacer un uso correcto de ellos, ya que cada material tiene una forma diferente de uso.
 
 ### 2. Marco Teorico: 
 
@@ -41,13 +39,17 @@ corrientes presentes en un circuito eléctrico, para asi tomar en cuenta la impo
 
 ## 5. Conclusiones: 
 
-•	El reducir un circuito complejo a una fuente y resistencia de Thévenin nos ayuda para poder determinar más rápido la transferencia de potencia hacia un resistor.
+* El circuito obtenido luego de aplicar el teorema con los conocimientos previos de conceptos y aplicación es mucho más simple y rapido para calcular voltajes y corrientes.
 
-• Al medir todas las potencias mediante las resistencias propuestas se concluyo facilmente que 1kΩ es con quien se obtiene la maxima transferencia de potencia.
+* Al medir todas las potencias mediante las resistencias propuestas en el simlador usado, se concluyo facilmente que todos los valores coinciden con los de los resultados teorícos ayudandonos a comprobar así el Teorema de la Máxima Transferencia de Potencia.
 
-* El circuito obtenido luego de aplicar el teorema es mucho mas simple y rapido para calcular voltajes y corrientes.
+* Llegamos a la conclusión que la máxima potencia se da cuando la carga toma de resistencia de igual a la resistencia de Thevenin o Norton.
+
+* El reducir un circuito complejo a una fuente y resistencia de Thévenin nos ayuda para poder determinar más rápido la transferencia de potencia hacia un resistor.
 
 * Permiten encontrar un circuito equivalente de manera simple y rápida aun en circuitos de naturaleza complicados.
+
+* Concluimos que para el uso del simulador debemos utilizar de una manera adecuada cada uno de los materiales a usar, ya que si se tiene alguna mala conexión o algún mal uso del protoboard, multímetros, etc. se puede generar datos y valores erróneos, que pueden afectar al laboratorio estudiado. 
 
 ## 6. Bibliografia: 
 
