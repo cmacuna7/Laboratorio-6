@@ -75,18 +75,22 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 ![](Img/Tabla.jpeg)
 
+Cálculos de error.
+
+![image](https://user-images.githubusercontent.com/84789076/128022071-8c44375c-24a3-427e-b344-323057b2d1d7.png)
+
 6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su
 respuesta.
 
-Si,porque la potencia esta creciendo cuando la resistencias cambian su valor y llegan a tener un valor Maximo.
+* Si,porque la potencia esta creciendo cuando la resistencias cambian su valor y llegan a tener un valor Maximo.
 
 6.5.5. ¿Cuál fue la potencia máxima en RL? 
 
-0.0485 Watts
+* 0.0485 Watts
 
 6.5.6. ¿Para qué valor de RL se obtiene la MTP? 
 
-820 Ω
+* 820 Ω
 
 ## 5. Video: 
 
